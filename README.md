@@ -1,6 +1,6 @@
 # Et repository til Python kursus materiale
 
-`kmeans.ipynb` Indeholder en demonstration af K-Nearest Neighbor algoritmen og tilhørende øvelser.
+`knn.ipynb` Indeholder en demonstration af K-Nearest Neighbor algoritmen og tilhørende øvelser.
 
 `tree.ipynb` Indeholder en demonstration af Decision Tree algoritmen og tilhørende øvelser.
 
@@ -14,5 +14,5 @@ Husk at downloade en kopi af jeres notebook inden i lukker ned for idag.
 
 |Notebook| Launch binder|
 |-|-|
-|kmeans.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/intro_to_machine_learning.git/master?filepath=kmeans.ipynb)|
+|knn.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/intro_to_machine_learning.git/master?filepath=knn.ipynb)|
 |tree.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/intro_to_machine_learning.git/master?filepath=tree.ipynb)|
