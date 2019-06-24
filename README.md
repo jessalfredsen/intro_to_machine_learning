@@ -16,3 +16,4 @@ Husk at downloade en kopi af jeres notebook inden i lukker ned for idag.
 |-|-|
 |knn.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/intro_to_machine_learning.git/master?filepath=knn.ipynb)|
 |tree.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/intro_to_machine_learning.git/master?filepath=tree.ipynb)|
+|neural_net.ipynb|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessalfredsen/intro_to_machine_learning.git/master?filepath=neural_net.ipynb)|
