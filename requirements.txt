@@ -5,3 +5,4 @@ matplotlib
 tensorflow>=1.13,<2
 keras>=2.1.6,<2.2
 pillow
+gensim
